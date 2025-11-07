@@ -1,6 +1,6 @@
 # 想曰
 
-[![GitHub stars](https://img.shields.io/github/stars/fzxx/XiangYue?style=social)](https://github.com/fzxx/XiangYue)   [![GitHub forks](https://img.shields.io/github/forks/fzxx/XiangYue?style=social&logo=github)](https://github.com/fzxx/XiangYue)   [![已关闭 Issues](https://img.shields.io/github/issues-closed/fzxx/XiangYue?label=已解决问题&color=green&logo=github)](https://github.com/fzxx/XiangYue/issues?q=is%3Aissue+is%3Aclosed)   [![许可证](https://img.shields.io/badge/License-私下研究专用许可-blue?logo=github)](https://github.com/fzxx/XiangYue/blob/main/main/License.txt)
+[![GitHub stars](https://img.shields.io/github/stars/fzxx/XiangYue?style=social)](https://github.com/fzxx/XiangYue)   [![GitHub forks](https://img.shields.io/github/forks/fzxx/XiangYue?style=social&logo=github)](https://github.com/fzxx/XiangYue)   [![已关闭 Issues](https://img.shields.io/github/issues-closed/fzxx/XiangYue?label=%E5%B7%B2%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98&color=green&logo=github)](https://github.com/fzxx/XiangYue/issues?q=is%3Aissue+is%3Aclosed)   [![许可证](https://img.shields.io/badge/License-私下研究专用许可-blue?logo=github)](https://github.com/fzxx/XiangYue/blob/main/main/License.txt)
 [![级联算法](https://img.shields.io/badge/%E6%96%87%E6%9C%AC%E5%8A%A0%E5%AF%86%E9%A6%96%E4%B8%AA%E7%BA%A7%E8%81%94%E7%AE%97%E6%B3%95%E5%B7%A5%E5%85%B7-AES256%20CTR%20+%20ChaCha20%20Poly1305%20IETF-purple?logo=cryptpad&logoColor=white)](https://github.com/fzxx/XiangYue?tab=readme-ov-file#%EF%B8%8F-%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82)   [![多种密文](https://img.shields.io/badge/%E6%94%AF%E6%8C%81%E5%A4%9A%E7%A7%8D%E5%AF%86%E6%96%87-%E4%B8%AD%E6%96%87/Base64/Emoji/%E9%9B%B6%E5%AE%BD/%E6%97%A5%E8%AF%AD/%E9%9F%A9%E8%AF%AD/%E8%B1%A1%E5%BD%A2-purple?logo=livechat&logoColor=white)](https://github.com/fzxx/XiangYue?tab=readme-ov-file#-%E7%89%B9%E7%82%B9)
 
 <span style="color: Blue;"><strong><a href="https://github.com/fzxx/XiangYue" style="color: inherit;">想曰(yuē)</a></strong></span> 是基于现代加密技术的文本加密工具，使用**多算法级联加密**方案，确保数据在本地完成加密/解密，保护隐私安全。
@@ -60,9 +60,9 @@ J7ni11NnCUEe1+GtZcIWoJcKNgzsyN8K8BQBKnDn/1mLPkv2ul1VUcedyoIgZpXcNUKfy3HhZI6soaa5
 
 ## 🖥️在线与离线使用
 
-[![在线页面](https://img.shields.io/badge/在线页面-想曰-yellow?logo=googlechrome&logoColor=white)](https://xyue.515188.xyz/)   [![免尴尬页面](https://img.shields.io/badge/免尴尬页面-想说-green?logo=firefox&logoColor=white)](https://xshuo.515188.xyz/)   [![Release](https://img.shields.io/github/v/release/fzxx/XiangYue?label=离线客户端&color=blue&logo=github)](https://github.com/fzxx/XiangYue/releases)
+[![在线页面](https://img.shields.io/badge/在线页面-想曰-yellow?logo=googlechrome&logoColor=white)](https://xyue.515188.xyz/)   [![免尴尬页](https://img.shields.io/badge/免尴尬页-想说-green?logo=firefox&logoColor=white)](https://xshuo.515188.xyz/)   [![Release](https://img.shields.io/github/v/release/fzxx/XiangYue?label=离线客户端&color=blue&logo=github)](https://github.com/fzxx/XiangYue/releases)
 
-<a href="https://xiangyue.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/备用页面-想曰-yellow?logo=googlechrome&logoColor=white" alt="备用页面"></a>
+<a href="https://xiangyue.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/备用页①-想曰-yellow?logo=googlechrome&logoColor=white" alt="备用页①"></a>   <a href="https://xiangyue.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/备用页②-想曰-yellow?logo=googlechrome&logoColor=white" alt="备用页②"></a>
 
 
 ## 🔄️更新日志
@@ -108,6 +108,12 @@ J7ni11NnCUEe1+GtZcIWoJcKNgzsyN8K8BQBKnDn/1mLPkv2ul1VUcedyoIgZpXcNUKfy3HhZI6soaa5
 
 - 有，视Stars情况再考虑，太少人用没有增加的必要。
 
+## 相关项目
+
+[文图变 - 文件藏到图片](https://github.com/fzxx/FileImgSwap)
+
+[坏坏包 - 让压缩包像坏了](https://github.com/fzxx/NaughtyDamagePack)
+
 ## 📖 许可证
 
 [想曰](https://github.com/fzxx/XiangYue) - [私下研究专用许可](https://github.com/fzxx/XiangYue?tab=License-1-ov-file#)
@@ -115,4 +121,3 @@ J7ni11NnCUEe1+GtZcIWoJcKNgzsyN8K8BQBKnDn/1mLPkv2ul1VUcedyoIgZpXcNUKfy3HhZI6soaa5
 [libsodium.js](https://github.com/jedisct1/libsodium.js/) - ISC 许可证
 
 [pako](https://github.com/nodeca/pako) - MIT 许可证
-
