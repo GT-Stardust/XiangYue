@@ -119,6 +119,8 @@ J7ni11NnCUEe1+GtZcIWoJcKNgzsyN8K8BQBKnDn/1mLPkv2ul1VUcedyoIgZpXcNUKfy3HhZI6soaa5
 
 [坏坏包 - 让压缩包像坏了](https://github.com/fzxx/NaughtyDamagePack)
 
+[闪电擦除 - 让文件无法恢复](https://github.com/fzxx/FlashErase)
+
 ## 📖 许可证
 
 [想曰](https://github.com/fzxx/XiangYue) - [私下研究专用许可](https://github.com/fzxx/XiangYue?tab=License-1-ov-file#)
@@ -126,3 +128,4 @@ J7ni11NnCUEe1+GtZcIWoJcKNgzsyN8K8BQBKnDn/1mLPkv2ul1VUcedyoIgZpXcNUKfy3HhZI6soaa5
 [libsodium.js](https://github.com/jedisct1/libsodium.js/) - ISC 许可证
 
 [pako](https://github.com/nodeca/pako) - MIT 许可证
+
